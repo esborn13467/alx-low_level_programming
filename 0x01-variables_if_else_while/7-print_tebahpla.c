@@ -1,16 +1,14 @@
 #include <stdio.h>
 /**
- * main - Prints single digit numbers
+ * main - Prints alphabet in reverse
  * Return: Always 0
  */
 int main(void)
 {
+	char n;
 
-	int n;
-
-	for (n = '0'; n <= '9'; n++)
+	for (n = 'z'; n >= 'a'; n--)
 	putchar(n);
 	putchar('\n');
-
 	return (0);
 }
