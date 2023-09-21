@@ -1,2 +1,1 @@
-this is my files to be submitted to alx
-
+My readme file for more pointers ,arrays and strings
