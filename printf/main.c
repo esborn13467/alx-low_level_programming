@@ -1,5 +1,5 @@
-#include <stdio.h>  // Include standard I/O for comparison
-#include "printf.h" // Include your custom printf implementation
+#include <stdio.h> /*  Include standard I/O for comparison*/
+#include "printf.h" /* Include your custom printf implementation*/
 
 int main(void)
 {

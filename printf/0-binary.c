@@ -2,6 +2,6 @@
 
 int print_binary(va_list args)
 {
-    // Implementation for %b
+    /* Implementation for %b*/
 }
 
